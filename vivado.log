@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Nov 20 19:06:18 2022
+# Process ID: 11184
+# Current directory: D:/Vivado_project/CPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14588 D:\Vivado_project\CPU\CPU.xpr
+# Log file: D:/Vivado_project/CPU/vivado.log
+# Journal file: D:/Vivado_project/CPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Vivado_project/CPU/CPU.xpr
+INFO: [Project 1-313] Project file moved from 'D:/Vivado project/CPU' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:10 . Memory (MB): peak = 752.742 ; gain = 125.930
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+[Sun Nov 20 19:07:35 2022] Launched synth_1...
+Run output will be captured here: D:/Vivado_project/CPU/CPU.runs/synth_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Nov 20 19:09:52 2022...

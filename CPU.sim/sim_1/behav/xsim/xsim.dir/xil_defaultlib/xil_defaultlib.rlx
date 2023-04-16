@@ -1,0 +1,19 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Vivado_project/CPU/CPU.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sim_1/new/openmips_min_sopc_tb.v,1669012653,verilog,,,,openmips_min_sopc_tb,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,1669084301,verilog,,,,,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/ex.v,1669085167,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/ex_mem.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,ex,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/ex_mem.v,1669079386,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/id.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,ex_mem,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/id.v,1669084849,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/id_ex.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,id,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/id_ex.v,1669044328,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/if_id.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,id_ex,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/if_id.v,1669044415,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/inst_rom.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,if_id,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/inst_rom.v,1669019209,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/mem.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,inst_rom,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/mem.v,1669079347,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/mem_wb.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,mem,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/mem_wb.v,1669079442,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/openmips.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,mem_wb,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/openmips.v,1669017770,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/openmips_min_sopc.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,openmips,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/openmips_min_sopc.v,1669011034,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/pc_reg.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,openmips_min_sopc,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/pc_reg.v,1669014482,verilog,,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/regfile.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,pc_reg,,,,,,,,
+D:/Vivado_project/CPU/CPU.srcs/sources_1/new/regfile.v,1669024043,verilog,,D:/Vivado_project/CPU/CPU.srcs/sim_1/new/openmips_min_sopc_tb.v,D:/Vivado_project/CPU/CPU.srcs/sources_1/new/defines.v,regfile,,,,,,,,

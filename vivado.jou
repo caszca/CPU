@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Nov 20 19:06:18 2022
+# Process ID: 11184
+# Current directory: D:/Vivado_project/CPU
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14588 D:\Vivado_project\CPU\CPU.xpr
+# Log file: D:/Vivado_project/CPU/vivado.log
+# Journal file: D:/Vivado_project/CPU\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Vivado_project/CPU/CPU.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
